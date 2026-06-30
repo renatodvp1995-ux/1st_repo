@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MathStudy13" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
